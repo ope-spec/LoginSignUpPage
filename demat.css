@@ -137,7 +137,8 @@ a:hover {
         background-color: whitesmoke;
     }
     h2{
-        font-size: large;
+        font-size:x-large;
+        text-align: center;
     }
     
     .navbar {
@@ -169,7 +170,6 @@ a:hover {
         color: black;
         background-color: whitesmoke;
         text-align: left;
-        font-size: 10px;
     }
     .col-sm-4{
         padding: 20px 0px 10px 20px;
@@ -189,7 +189,7 @@ a:hover {
     .login {
         align-items: center;
         padding-top: 15px;
-        width: 60%;
+        width: 80%;
     }
     
     .button {
@@ -245,7 +245,7 @@ a:hover {
         display: none;
     }
 
-    .mt-5{
+    footer{
         font-size: 13px;
         text-align: center;
     }
@@ -262,7 +262,8 @@ a:hover {
         background-color: whitesmoke;
     }
     h2{
-        font-size: large;
+        font-size:x-large;
+        text-align: center;
     }
     
     .navbar {
@@ -309,7 +310,7 @@ a:hover {
     .login {
         align-items: center;
         padding-top: 15px;
-        width: 60%;
+        width: 100%;
     }
     
     .button {
@@ -348,17 +349,18 @@ a:hover {
     }
     
     .or {
-        width: 90%;
+        width: 100%;
         text-align: center;
         border-bottom: 1px solid #000;
         line-height: 0.1em;
-        margin: 10px 10px 20px;
+        margin: 10px 5px 20px;
         background-color: whitesmoke;
+        font-size: larger;
     }
     
     .or span {
         background: #fff;
-        padding: 0 10px;
+        padding: 0 20px;
     }
     
     .purple{
@@ -381,7 +383,8 @@ a:hover {
         background-color: whitesmoke;
     }
     h2{
-        font-size-adjust: inherit;
+        font-size:x-large;
+        text-align: center;
     }
     
     .navbar {
@@ -428,7 +431,7 @@ a:hover {
     .login {
         align-items: center;
         padding-top: 15px;
-        width: 60%;
+        width: 80%;
     }
     
     .button {
